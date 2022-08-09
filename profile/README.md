@@ -4,7 +4,7 @@
 
 🙋‍♀️ **A short introduction about?**
 
-The O.A.S.S.P is a Non-Profit Space Sciences Professionals Entity,dedicated to the cooperation, connection, unity and collaboration and of Space Sciences professionals of African origin, for the advancement of African Space Sciences, research, technology, industry, education and research on the continent.
+The O.A.S.S.P is a Non-Profit Space Sciences Professionals Entity,dedicated to the cooperation, connection, unity and collaboration of Space Sciences professionals of African origin, for the advancement of African Space Sciences, research, technology, industry, education and research on the continent.
 
 🌈 **Contribution guidelines - how can the community get involved?**
 
