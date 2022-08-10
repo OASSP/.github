@@ -16,9 +16,8 @@ Our documents [page](docs.oassp.org) are not yet done, but you can find updates 
 
 🍿 Fun facts - what does your team eat for breakfast?
 
-# Privacy Policy
 Our <a href="https://www.oassp.org/privacy">Privacy Policy</a>
-# Terms and Conditions
+
 Our <a href="https://www.oassp.org/privacy">Terms and Conditions</a>
 
 🧙 <footer class="main-footer">
