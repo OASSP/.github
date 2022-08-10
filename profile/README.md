@@ -10,7 +10,7 @@ The O.A.S.S.P is a Non-Profit Space Sciences Professionals Entity,dedicated to t
 
 
 👩‍💻 **Useful resources - where can the community find our docs?** 
-
+Our documents [page](docs.oassp.org) are not yet done, but you can find updates to the current docs [here](https://github.com/OASSP/docs)
 
 **Is there anything else the community should know?**
 
