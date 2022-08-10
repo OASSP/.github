@@ -22,8 +22,8 @@ Our documents [page](docs.oassp.org) are not yet done, but you can find updates 
     </div>
     <strong>Copyright &copy; 2022 <a href="https://www.oassp.org">O.A.S.S..P</a>.</strong> All rights
     reserved.
+ 
   </footer>
-
 <!--
 
 -->
