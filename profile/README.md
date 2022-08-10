@@ -16,7 +16,13 @@ Our documents [page](docs.oassp.org) are not yet done, but you can find updates 
 
 🍿 Fun facts - what does your team eat for breakfast?
 
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🧙 <footer class="main-footer">
+    <div class="float-right d-none d-sm-block">
+      <b>Version</b> 3.0.5
+    </div>
+    <strong>Copyright &copy; 2022 <a href="https://www.oassp.org">O.A.S.S..P</a>.</strong> All rights
+    reserved.
+  </footer>
 
 <!--
 
