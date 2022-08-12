@@ -1,12 +1,12 @@
-## Hi there 👋.
+ Hi there 👋.
 
-##  🙋‍♀️ **What is it**?
+###  🙋‍♀️ **What is it**?
 The Organisation of Africa Space Sciences Professionals(O.A.S.S.P) is a Non-Profit Space Sciences Professionals Entity,dedicated to the cooperation, connection, unity and collaboration of Space Sciences professionals of African origin, for the advancement of African Space Sciences, research, technology, industry, education and research on the continent./p>
 
-##  🙋‍♀️ **What does it do?**
+### 🙋‍♀️ **What does it do?**
 Platform for interregional or interpersonal space sciences professionals  to collaborate, connect, cooperation and support each other for advancement of African Space Sciences, Research, technology, industry, education beyond profession, research, industry & academia.
 
-🌈 **Contribution guidelines - how can you get involved?**
+### 🌈 **Contribution guidelines - how can you get involved?** 
 
 
 👩‍💻 **Useful resources - where can the community find our docs?** 
