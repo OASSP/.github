@@ -7,8 +7,10 @@ The Organisation of Africa Space Sciences Professionals(O.A.S.S.P) is a Non-Prof
 Platform for interregional or interpersonal space sciences professionals  to collaborate, connect, cooperation and support each other for advancement of African Space Sciences, Research, technology, industry, education beyond profession, research, industry & academia.
 
 - We are building <a href="https://www.campus.oassp.org/index.html">Africa's First Virtual Space Sciences Campus </a>; We need You, to Help Us Build.
+
 OR 
 - Sponsor Us To <a href="https://www.campus.oassp.org/sponsor.html"> Keep  the Lights On</a>
+
 OR 
 -Sponsor  an Instructor<a href="https://www.campus.oassp.org/sponsor.html">To Pass On the Light </a>
 
