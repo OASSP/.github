@@ -10,7 +10,7 @@ Platform for interregional or interpersonal space sciences professionals  to col
 OR 
 - Sponsor Us To <a href="https://www.campus.oassp.org/sponsor.html"> Keep  the Lights On</a>
 OR 
--Sponsor  an Instructor<a href="https://www.campus.oassp.org/sponsor.html">To Pass On the light of Knowledge & Skills </a>
+-Sponsor  an Instructor<a href="https://www.campus.oassp.org/sponsor.html">To Pass On the Light </a>
 
 ### 👩‍💻 **Useful resources - where can the community find our docs?** 
 
