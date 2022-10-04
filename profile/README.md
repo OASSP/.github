@@ -3,7 +3,7 @@
 
  🌱![GitHub commit activity](https://img.shields.io/github/commit-activity/w/josephkb87/josephkb87)</a> 🌱 <a![GitHub commit activity](https://img.shields.io/github/commit-activity/w/josephkb87/josephkb87)</a>🌱
  
- https://img.shields.io/github/stars/oassp?style=social
+ ![GitHub Social Icons](https://img.shields.io/github/stars/oassp?style=social)
 
 ###  🙋‍♀️ **What is it**?
 The Organisation of Africa Space Sciences Professionals(O.A.S.S.P) is a Non-Profit Space Sciences Professionals Entity, dedicated to the cooperation, connection, unity and collaboration of Space Sciences professionals of African origin, for the advancement of African Space Sciences, research, technology, industry, education and research on the continent. 
