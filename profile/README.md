@@ -12,7 +12,7 @@ Platform for interregional space sciences professionals  to collaborate, connect
 
 We are building <a href="https://www.campus.oassp.org/index.html">Africa's First Virtual Space Sciences Campus </a>; We need You, to Help Us Build.
 
-Sponsor Us To <a href="https://www.campus.oassp.org/sponsor.html"> Keep  the Lights On</a> OR Sponsor  an Instructor<a href="https://www.campus.oassp.org/sponsor.html">To Pass On the Light </a>
+Sponsor Us To <a href="https://www.campus.oassp.org/sponsor.html"> Keep  the Lights On</a> OR Sponsor  an Instructor <a href="https://www.campus.oassp.org/sponsor.html"> To Pass On the Light </a>
 
 ## 👩‍💻 **Useful resources - where can the community find our docs?** 
 
