@@ -20,9 +20,9 @@ Our documents [page](docs.oassp.org) are in process, but you can find updates to
 
 ## 🙋‍ **Is there anything else the community should know?**
 
-- Please Share <a href="https://www.campus.oassp.org/socials.html">Our Story.</a> OR  <a href="https://www.campus.oassp.org/partners.html">Become our Partner.</a>
+-  Share <a href="https://www.campus.oassp.org/socials.html">Our Story.</a> OR  <a href="https://www.campus.oassp.org/partners.html">Become our Partner.</a>
 
-<a href="https://www.oassp.org/privacy">Privacy Policy.</a>🧙 <a href="https://www.oassp.org/termsandconditions">Terms and Conditions</a>
+<a href="https://www.oassp.org/privacy">Privacy Policy.</a> <a href="https://www.oassp.org/termsandconditions">Terms and Conditions</a>
 
 <footer class="main-footer">
     <div class="float-right d-none d-sm-block">
