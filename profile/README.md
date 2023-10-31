@@ -16,7 +16,7 @@ Sponsor Us To <a href="https://www.campus.oassp.org/sponsor.html"> Keep  the Lig
 
 ## 👩‍💻 **Useful resources - where can the community find our docs?** 
 
-Our documents [page](docs.oassp.org) are in process, but you can find updates to the current docs [here](https://github.com/OASSP/docs)
+Our Docs [page](docs.oassp.org) ar [here](https://github.com/OASSP/docs)
 
 ## 🙋‍ **Is there anything else the community should know?**
 
@@ -26,9 +26,9 @@ Our documents [page](docs.oassp.org) are in process, but you can find updates to
 
 <footer class="main-footer">
     <div class="float-right d-none d-sm-block">
-      <b>Version</b> 3.0.5
+      <b>Version</b> [3.0.5]( )
     </div>
-    <strong>Copyright &copy; 2023 <a href="https://www.oassp.org">O.A.S.S.P</a>.</strong> All rights
+    <strong>Copyright with 🖤 by  &copy; 2023 <a href="https://www.oassp.org/aboutus.html">O.A.S.S.P Team</a>.</strong> All rights
     reserved.
  
   </footer>
