@@ -14,13 +14,13 @@ We are building <a href="https://www.campus.oassp.org/index.html">Africa's First
 
 Sponsor Us To <a href="https://www.campus.oassp.org/sponsor.html"> Keep  the Lights On</a> OR Sponsor  an Instructor <a href="https://www.campus.oassp.org/sponsor.html"> To Pass On the Light </a>
 
-## 👩‍💻 **Useful resources - where can the community find our docs?** 
+## 👩‍💻 **Useful docs?** 
 
-Our documents [page](docs.oassp.org) are in process, but you can find updates to the current docs [here](https://github.com/OASSP/docs)
+Our documents [page](docs.oassp.org), but you can find updates to the current [docs](https://github.com/OASSP/docs)
 
 ## 🙋‍ **Is there anything else the community should know?**
 
--  Share <a href="https://www.campus.oassp.org/socials.html">Our Story.</a> OR  <a href="https://www.campus.oassp.org/partners.html">Become our Partner.</a>
+-  Share <a href="https://www.campus.oassp.org/socials.html">Our Story.</a> OR  <a href="https://www.campus.oassp.org/partners.html">Partner with us.</a>
 
 <a href="https://www.oassp.org/privacy">Privacy Policy.</a> <a href="https://www.oassp.org/termsandconditions">Terms and Conditions</a>
 
@@ -28,7 +28,7 @@ Our documents [page](docs.oassp.org) are in process, but you can find updates to
     <div class="float-right d-none d-sm-block">
       <b>Version</b> 3.0.5
     </div>
-    <strong>Copyright &copy; 2023 <a href="https://www.oassp.org">O.A.S.S.P</a>.</strong> All rights
+    <strong>Copyright &copy; 2024 <a href="https://www.oassp.org">O.A.S.S.P</a>.</strong> All rights
     reserved.
  
   </footer>
