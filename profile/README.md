@@ -1,13 +1,7 @@
- Hi there 👋.
- 
- <a href="https://github.com/OASSP/readme.md"><img src="https://img.shields.io/github/stars/OASSP/.github/app-privacy-policy-generator.svg?style=social&amp;label=Star" alt="GitHub stars"></a>.<a href="https://github.com/OASSP/OASSP.github.io/fork"><img src="https://img.shields.io/github/forks/josephkb87/josephkb87.svg?style=social&amp;label=Fork" alt="GitHub forks"></a>.<a href="https://github.com/josephkb87/josephkb87"><img src="https://img.shields.io/github/watchers/josephkb87/josephkb87.svg?style=social&amp;label=Watch" alt="GitHub watchers"></a>.<a href="https://github.com/josephkb87/josephkb87"><img src="https://img.shields.io/github/followers/josephkb87.svg?style=social&amp;label=Follow" alt="GitHub followers"></a>.<a href="https://twitter.com/josephkb87"><img src="https://img.shields.io/twitter/follow/clydekingkid.svg?style=social" alt="Twitter Follow"></a>
-
- ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/josephkb87/oassp)</a> [GitHub commit activity](https://img.shields.io/github/commit-activity/w/josephkb87/oassp)</a>🌱![GitHub Social Icons](https://img.shields.io/github/stars/oassp?style=social)
-
-###  🙋‍♀️ **What is it**?
+###  ** What is it**?
 The Organisation of Africa Space Sciences Professionals(O.A.S.S.P) is a Non-Profit Space Sciences Professionals Entity, dedicated to the cooperation, connection, unity and collaboration of Space Sciences professionals of African origin, for the advancement of African Space Sciences, research, technology, industry, education and research on the continent. 
 
-### 🙋‍♀️ **What does it do?**
+### ** What does it do?**
 Platform for interregional space sciences professionals  to collaborate, connect, cooperation and support each other for advancement of African Space Sciences, Research, technology, industry, education beyond profession, research, industry & academia.
 
 We are building <a href="https://www.campus.oassp.org/index.html">Africa's First Virtual Space Sciences Campus </a>; We need You, to Help Us Build.
