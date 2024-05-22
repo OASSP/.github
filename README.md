@@ -1,2 +1,2 @@
 # .github
-This is where the OASSP Project Site Repo
+This powers the OASSP gh-pages WebSite(https://oassp.github.io) 
